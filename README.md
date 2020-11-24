@@ -19,7 +19,7 @@
 
 ## دروس کارشناسی ارشد
 
-[1115025_01_166   الگوریتم پیشرفته ](https://github.com/bahssanbeygi/PNU_3991_AR/blob/main/AdvancedAlgorithms)
+[1115025_01_166   الگوریتم پیشرفته ](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/AdvancedAlgorithms)
 <br>
 [1115023_01_166 سیستم عامل پیشرفته ]
 <br>
