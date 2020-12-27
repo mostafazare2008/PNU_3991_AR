@@ -11,6 +11,11 @@
 - [jlord patchwork](patchwork.jpg)
   
 ------------------
+ # تمرین ها
+1. [G-A03]
+    1. [Rabin-Karp]
+    1. [------------]
+    1. [-------------]
 # گروه ها
 1. [G-A02](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_01)
 
