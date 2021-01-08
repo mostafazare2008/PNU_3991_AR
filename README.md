@@ -18,7 +18,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/_General/MZ_GeneralSection_CheckList_AR_3991.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_الگوریتم پیشرفته]
+- [خلاصه ارزیابی درس_الگوریتم پیشرفته](https://github.com/mostafazare2008/PNU_3991_AR/blob/main/AdvancedAlgorithm/MZ_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 --------------------
  # تمرین ها
